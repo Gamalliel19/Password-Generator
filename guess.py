@@ -10,3 +10,4 @@ while (nilai != tebak):
         tebak = int(input("Tebak angka dari 1 sampai 100 : "))
 
 print("KAMU BERHASIL MENEBAK ANGKANYA.")
+
